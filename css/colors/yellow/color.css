@@ -1,0 +1,43 @@
+a, a:visited, #header .menu-nav ul li a:hover, #header .menu-nav ul li.active a, #header .menu-nav ul li.current-menu-item a, #header .menu-nav ul li.current-cat a, #buynow h2 strong, .widget .dotstheme_pricing h3, .widget .dotstheme_pricing .price { color:#ceba37; }
+a:hover { color:#9c8b1a; } /* Don't change this value */
+
+.btn, input[type="button"], input[type="submit"], input[type="reset"] {
+	background-color:#d1bd39;
+	background:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#d1bd39), to(#c1aa12));
+	background:-webkit-linear-gradient(top, #d1bd39, #c1aa12);
+	background:-moz-linear-gradient(top, #d1bd39, #c1aa12);
+	background:-o-linear-gradient(top, #d1bd39, #c1aa12);
+}
+.btn:hover, input[type="button"]:hover, input[type="submit"]:hover, input[type="reset"]:hover {
+	background-color:#c1aa12;
+	background:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#c1aa12), to(#d1bd39));
+	background:-webkit-linear-gradient(top, #c1aa12, #d1bd39);
+	background:-moz-linear-gradient(top, #c1aa12, #d1bd39);
+	background:-o-linear-gradient(top, #c1aa12, #d1bd39);
+}
+
+.header .header-border, #contact .header-border { background:url(border-header-single.png) center bottom no-repeat; }
+
+#header .social a { color:#fff08b; }
+
+#header .header-wrap, #contact .contact-btn a:hover, #contact .contact-btn a.active, .widget .dotstheme_portfolio h4, .widget .dotstheme_testimonial:hover .name { background-color:#ceba37; }
+
+#main-tabs .tabs > li.active > a, #main-tabs .tabs > li.active > a:hover, #main-tabs .tabs > li.active > a:focus {
+	background-color:#ceba37;
+	border:1px solid #ceba37;
+	border-left:0px;
+}
+#main-tabs .tabs > li:first-child.active > a, #main-tabs .tabs > li:first-child.active > a:hover, #main-tabs .tabs > li:first-child.active > a:focus { border-left:1px solid #ceba37; }
+
+.widget .dotstheme_step:hover .step-number .number {
+	background-color:#ceba37;
+	border:5px solid #fbf1b1;
+}
+
+.widget .dotstheme_pricing:hover { background-color:#fffad7; }
+.widget .dotstheme_pricing:hover .tbl { border:1px solid #f1ebc3; }
+.widget .dotstheme_pricing.recommended h3 { background-color:#c1ad2d; }
+.widget .dotstheme_pricing.recommended .price {
+	background-color:#ceba37;
+	border-top:1px solid #b5a121;	
+}

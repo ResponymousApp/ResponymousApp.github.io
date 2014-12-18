@@ -1,0 +1,2 @@
+.nivoSlider img { width:100%; }
+.nivoSlider img:first-child { position:static; }
